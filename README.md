@@ -23,6 +23,8 @@ STM32F3 series in-application programming (IAP) using the USART ([AN4045](http:/
 
 STM32 microcontroller system memory boot mode ([AN2606](http://www.st.com/content/ccc/resource/technical/document/application_note/b9/9b/16/3a/12/1e/40/0c/CD00167594.pdf/files/CD00167594.pdf/jcr:content/translations/en.CD00167594.pdf))
 
+USART protocol used in the STM32 bootloader ([AN3155](http://www.st.com/content/ccc/resource/technical/document/application_note/51/5f/03/1e/bd/9b/45/be/CD00264342.pdf/files/CD00264342.pdf/jcr:content/translations/en.CD00264342.pdf))
+
 ### Other useful links
 
 [Bootloader on STM32F303: built in from factory or externally programmed?
