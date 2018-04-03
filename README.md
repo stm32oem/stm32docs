@@ -29,3 +29,5 @@ USART protocol used in the STM32 bootloader ([AN3155](http://www.st.com/content/
 
 [Bootloader on STM32F303: built in from factory or externally programmed?
 ](https://stackoverflow.com/questions/46075670/bootloader-on-stm32f303-built-in-from-factory-or-externally-programmed/46077928)
+
+[How to program the STM32](http://www.emcu.eu/how-to-program-the-stm32/)
