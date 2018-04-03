@@ -5,6 +5,8 @@
 
 [STM32F3DISCOVERY](http://www.st.com/en/evaluation-tools/stm32f3discovery.html)
 
+[STSW-STM32111](https://my.st.com/content/my_st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32-standard-peripheral-library-expansion/stsw-stm32111.html) - STM32F3xx in-application programming (IAP) using the USART (AN4045)
+
 
 ### User manuals
 
