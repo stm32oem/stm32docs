@@ -21,6 +21,8 @@ EEPROM emulation in STM32F30x/STM32F31x/STM32F37x/STM32F38x microcontrollers ([A
 
 STM32F3 series in-application programming (IAP) using the USART ([AN4045](http://www.st.com/content/ccc/resource/technical/document/application_note/da/46/5a/45/47/5f/45/d2/DM00047998.pdf/files/DM00047998.pdf/jcr:content/translations/en.DM00047998.pdf))
 
+STM32 microcontroller system memory boot mode ([AN2606](http://www.st.com/content/ccc/resource/technical/document/application_note/b9/9b/16/3a/12/1e/40/0c/CD00167594.pdf/files/CD00167594.pdf/jcr:content/translations/en.CD00167594.pdf))
+
 ### Other useful links
 
 [Bootloader on STM32F303: built in from factory or externally programmed?
