@@ -8,7 +8,7 @@
 
 [ST webpage for Nucleo-F303ZE](http://www.st.com/en/evaluation-tools/nucleo-f303ze.html) - STM32 Nucleo-144 development board with STM32F303ZE MCU
 
-[STM32F3DISCOVERY](http://www.st.com/en/evaluation-tools/stm32f3discovery.html)
+[ST webpage for STM32F3DISCOVERY](http://www.st.com/en/evaluation-tools/stm32f3discovery.html) - Discovery kit with STM32F303VC MCU
 
 [STSW-STM32111](https://my.st.com/content/my_st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32-standard-peripheral-library-expansion/stsw-stm32111.html) - STM32F3xx in-application programming (IAP) using the USART (AN4045)
 
