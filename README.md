@@ -30,6 +30,9 @@ STM32 microcontroller system memory boot mode ([AN2606](http://www.st.com/conten
 
 USART protocol used in the STM32 bootloader ([AN3155](http://www.st.com/content/ccc/resource/technical/document/application_note/51/5f/03/1e/bd/9b/45/be/CD00264342.pdf/files/CD00264342.pdf/jcr:content/translations/en.CD00264342.pdf))
 
+### Release notes
+Firmware upgrade for ST-LINK, ST-LINK/V2 and ST-LINK/V2-1 boards  ([RN0093](http://www.st.com/content/ccc/resource/technical/document/release_note/98/de/c7/1b/08/82/44/38/DM00107009.pdf/files/DM00107009.pdf/jcr:content/translations/en.DM00107009.pdf))
+
 ### Other useful links
 
 [Bootloader on STM32F303: built in from factory or externally programmed?
