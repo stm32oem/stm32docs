@@ -10,8 +10,9 @@
 
 [ST webpage for STM32F3DISCOVERY](http://www.st.com/en/evaluation-tools/stm32f3discovery.html) - Discovery kit with STM32F303VC MCU
 
-[STSW-STM32111](https://my.st.com/content/my_st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32-standard-peripheral-library-expansion/stsw-stm32111.html) - STM32F3xx in-application programming (IAP) using the USART (AN4045)
+[ST webpage for ST-LINK/V2](http://www.st.com/en/development-tools/st-link-v2.html) - ST-LINK/V2 in-circuit debugger/programmer for STM8 and STM32
 
+[ST webpage for STSW-STM32111](https://my.st.com/content/my_st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32-standard-peripheral-library-expansion/stsw-stm32111.html) - STM32F3xx in-application programming (IAP) using the USART (AN4045)
 
 ### User manuals
 
