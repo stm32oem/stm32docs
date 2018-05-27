@@ -14,6 +14,8 @@
 
 [ST webpage for STSW-STM32111](https://my.st.com/content/my_st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32-standard-peripheral-library-expansion/stsw-stm32111.html) - STM32F3xx in-application programming (IAP) using the USART (AN4045)
 
+[ST webpage for STM32F303RE](http://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-eval-tools/stm32-mcu-eval-tools/stm32-mcu-nucleo/nucleo-f303re.html)
+
 ### User manuals
 
 Discovery kit with STM32F303VC MCU ([UM1570](http://www.st.com/content/ccc/resource/technical/document/user_manual/8a/56/97/63/8d/56/41/73/DM00063382.pdf/files/DM00063382.pdf/jcr:content/translations/en.DM00063382.pdf))
